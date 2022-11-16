@@ -1,6 +1,6 @@
 ## Hello, my name is Victoria!
 
-- 20 y.o. ✨
+- 21 y.o. ✨
 - NSU, Mathematics 🤡
 
 ## Technologies
