@@ -1,13 +1,12 @@
 ## Hello, my name is Victoria!
 
-- 21 y.o. ✨
+- 22 y.o. ✨
 - NSU, Mathematics 🤡
 
 ## Technologies
  
 - Python, C, C++ 🧐
 - Git ✅
-- Learning Data Science 🧐
 
 ## 💬 Social
 
