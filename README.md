@@ -7,6 +7,7 @@
  
 - Python, C, C++ 🧐
 - Git ✅
+- SQL ✅
 
 ## 💬 Social
 
