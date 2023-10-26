@@ -1,13 +1,13 @@
 ## Hello, my name is Victoria!
 
-- 22 y.o. ✨
 - NSU, Mathematics 🤡
+- School 21, Sber ✨
 
 ## Technologies
  
 - Python, C, C++ 🧐
 - Git ✅
-- SQL ✅
+- PostgreSQL ✅
 
 ## 💬 Social
 
