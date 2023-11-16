@@ -3,11 +3,9 @@
 - NSU, Mathematics 🤡
 - School 21, Sber ✨
 
-## Technologies
- 
-- Python, C, C++ 🧐
-- Git ✅
-- PostgreSQL ✅
+## 📊 Statistics
+
+<img src="https://wakatime.com/share/@018af5d3-addf-43d0-88bd-1e54b0eaaab8/a9bbf812-ecb7-4817-a32c-3a591b108250.svg"/>
 
 ## 💬 Social
 
